@@ -21,6 +21,7 @@ var numero1 = parseInt ( prompt ('digite um número'))
 var numero2 = parseInt ( prompt ('digite outro número')) 
 var resultado  = numero1 + numero2   
 alert (`A soma entre ${numero1} e ${numero2} é igual ${resultado}`) 
+document.write ( "seu resultado é " + resultado)
 
 
 
